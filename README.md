@@ -1,7 +1,6 @@
 # [Oluwaseyi G. Ezekiel](README.md)
 I am an emerging forester passionate about advancing research in spatial ecology and forest management. I have experience conducting both independent and collaborative studies in silviculture, forest ecology, ecosystem modeling, climate change, and natural hazard assessment. My goal is to contribute to global forest management efforts by integrating traditional forest monitoring and inventory methods with the latest technologies in remote sensing and Geographic Information Systems. <br>
 
-- [Curriculum Vitae](https://drive.google.com/file/d/13hdjqdqcOIbNxPnDW4gBKfA5W2HZs1bv/view?usp=drive_link)
 # Research Interests
 - Remote Sensing                                                                                     
 - Geographic Information Systems
