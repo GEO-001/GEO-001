@@ -5,6 +5,7 @@ I am an emerging forester passionate about advancing research in spatial ecology
 - Remote Sensing                                                                                     
 - Geographic Information Systems
 - Forest Inventory
+- Forest Ecology
 - Ecosystem Modeling
 - Land Use Management
 - Machine Learning<br>
